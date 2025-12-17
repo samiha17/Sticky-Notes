@@ -1,0 +1,39 @@
+/* posts/static/posts/styles.css */
+
+body {
+    font-family: "Arial", sans-serif;
+    background-color: #ffe6f0
+}
+
+header {
+    background-color: #ffb6c1;
+    padding: 10px;
+    text-align: center;
+    color: #fff
+}
+
+li {
+    background-color: #ffe0eb;
+    padding: 10px;
+    margin: 10px;
+    list-style: none;
+}
+
+a {
+    margin-right: 10px;
+    text-decoration: none;
+    color: #d63384;
+    font-weight:bold;
+}
+
+button {
+    background-color: #ff99bb;
+    color: white;
+    padding: 8px 12px;
+    border-radius: 5px;
+    cursor: pointer
+}
+
+button:hover{
+    background-color: #ff77aa; 
+}
